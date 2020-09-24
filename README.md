@@ -1,11 +1,15 @@
 # Phys2AKTuniv
 Lecture note on 物理II(熱力学)  for Akita univ.
 
+教科書 https://www.gakujutsu.co.jp/product/978-4-7806-0525-9/
+
 ## 10月
 
+<!--教科書14章-->
 1. 熱と温度
 1. 熱の移動
 1. ファン・デル・ワールスの状態方程式
+<!--教科書15章-->
 1. 熱力学の第１法則
 
 ## 11月
@@ -24,7 +28,7 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 -->
 
 ## 1月
-
+<!--教科書11章-->
 1. 静止流体中の圧力
 1. ベルヌーイの法則
 1. 揚力，粘性抵抗・慣性抵抗
