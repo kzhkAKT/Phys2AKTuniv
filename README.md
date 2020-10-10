@@ -6,7 +6,7 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 ## 10月
 
 <!--教科書14章-->
-1. 熱と温度
+1. [熱と温度](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/10_Oct/1401_%E7%86%B1%E3%81%A8%E6%B8%A9%E5%BA%A6.ipynb)
 1. 熱の移動
 1. ファン・デル・ワールスの状態方程式
 1. 熱力学の第１法則 <!--教科書15章-->
