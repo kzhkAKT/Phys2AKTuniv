@@ -11,7 +11,7 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 1. [ファン・デル・ワールスの状態方程式](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/10_Oct/1404_%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%AE%E7%8A%B6%E6%85%8B%E6%96%B9%E7%A8%8B%E5%BC%8F.ipynb)
 1. [熱力学の第１法則](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/master/10_Oct/1501_%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%81%AE%E7%AC%AC%EF%BC%91%E6%B3%95%E5%89%87.ipynb) <!--教科書15章-->
 
-## 11月
+## [11月](https://github.com/kzhkAKT/Phys2AKTuniv/tree/master/11_Nov)
 
 1. 理想気体のモル比熱
 1. 熱力学の第２法則
