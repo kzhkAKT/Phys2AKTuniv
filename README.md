@@ -26,7 +26,7 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 第１２回：熱・エネルギー・環境と教育
 -->
 
-## 1月
+## [1月](https://github.com/kzhkAKT/Phys2AKTuniv/tree/master/01_Jan)
 <!--教科書11章-->
 1. 静止流体中の圧力
 1. ベルヌーイの法則
