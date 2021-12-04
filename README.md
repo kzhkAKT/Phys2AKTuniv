@@ -22,6 +22,6 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 
 ## 講義5/5
 - 第10回：[静止流体中の圧力向](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/01_Jan/1101_%E9%9D%99%E6%AD%A2%E6%B5%81%E4%BD%93%E3%81%AE%E5%9C%A7%E5%8A%9B.ipynb)
-- 第11回：[ベルヌーイの法則向](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/01_Jan/1102_%E3%83%99%E3%83%AB%E3%83%8C%E3%83%BC%E3%82%A4%E3%81%AE%E6%B3%95%E5%89%87.ipynb)
+- 第11回：[ベルヌーイの法則](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/01_Jan/1102_%E3%83%99%E3%83%AB%E3%83%8C%E3%83%BC%E3%82%A4%E3%81%AE%E6%B3%95%E5%89%87.ipynb)
 - 第12回：[揚力](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/01_Jan/1103_%E6%8F%9A%E5%8A%9B.ipynb)
 - 第13回：[粘性抵抗と慣性抵抗](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft/01_Jan/1104_%E7%B2%98%E6%80%A7%E6%8A%B5%E6%8A%97%E3%81%A8%E6%85%A3%E6%80%A7%E6%8A%B5%E6%8A%97.ipynb)
