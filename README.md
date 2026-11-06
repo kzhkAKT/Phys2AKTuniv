@@ -1,5 +1,6 @@
 # Phys2AKTuniv
-Lecture note on 物理II(熱力学)  for Akita univ.
+
+Lecture Notes on Physics II: Thermodynamics, 物理II(熱力学) — Faculty of Education, Akita University
 
 教科書 https://www.gakujutsu.co.jp/product/978-4-7806-0525-9/
 
