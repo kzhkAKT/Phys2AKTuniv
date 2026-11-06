@@ -28,7 +28,7 @@ Lecture note on 物理II(熱力学)  for Akita univ.
 
 
 <!-- 
-prefix_url="https://colab.research.google.com/github/kzhkAKT/ApPhys2A/blob/main/"
+prefix_url="https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/draft202611/"
 
 for ipynb in *.ipynb; do   encoded_name=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1]))" "$ipynb");   echo "1. [$ipynb]($prefix_url$encoded_name)"; done
 >
