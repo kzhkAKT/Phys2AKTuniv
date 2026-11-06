@@ -4,6 +4,8 @@ Lecture Notes on Physics II: Thermodynamics, 物理II(熱力学) — Faculty of 
 
 教科書 https://www.gakujutsu.co.jp/product/978-4-7806-0525-9/
 
+> **進め方** : 14章 -> 15章 -> 11章
+
 ## 11章
 
 1. [1101_静止流体の圧力.ipynb](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/master/1101_%E9%9D%99%E6%AD%A2%E6%B5%81%E4%BD%93%E3%81%AE%E5%9C%A7%E5%8A%9B.ipynb)
@@ -27,10 +29,6 @@ Lecture Notes on Physics II: Thermodynamics, 物理II(熱力学) — Faculty of 
 1. [1505_エントロピー増大の原理.ipynb](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/master/1505_%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%A2%97%E5%A4%A7%E3%81%AE%E5%8E%9F%E7%90%86.ipynb)
 1. [1506_熱力学的現象の進む方向.ipynb](https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/master/1506_%E7%86%B1%E5%8A%9B%E5%AD%A6%E7%9A%84%E7%8F%BE%E8%B1%A1%E3%81%AE%E9%80%B2%E3%82%80%E6%96%B9%E5%90%91.ipynb)
 
-
-# 進め方
-
-14章 -> 15章 -> 11章
 
 <!-- 
 prefix_url="https://colab.research.google.com/github/kzhkAKT/Phys2AKTuniv/blob/master/"
